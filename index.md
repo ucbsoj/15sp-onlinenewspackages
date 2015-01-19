@@ -20,15 +20,15 @@ We cover an enormous amount of material during each class session, and every ses
 * [Cyberduck FTP Client](http://cyberduck.ch/) (Recommended. Also: Transmit, Fetch, many others)
 
 ###Required Reading
-* HTML & CSS (via Amazon)
+* [HTML & CSS](http://htmlandcssbook.com/) by Jon Duckett ([via Amazon](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189))
 
 ###Suggested Resources
-* Designing with Web Standards (Third Edition)
-* Don't Make Me Think
-* Sitepoint Reference (+ Basic Structure)
-* Codecademy
-* Data Journalism & Graphics Internships
-* http://www.newsnerdjobs.com/
+* [Designing with Web Standards (Third Edition)](http://www.amazon.com/Designing-Web-Standards-Jeffrey-Zeldman/dp/0321616952)
+* [Don't Make Me Think](http://www.amazon.com/exec/obidos/tg/detail/-/0321344758/ref=pd_luc_mri?_encoding=UTF8&m=ATVPDKIKX0DER&v=glance)
+* [Sitepoint Reference](http://reference.sitepoint.com/html/elements-structural) ([+ Basic Structure](http://reference.sitepoint.com/html/page-structure))
+* [Codecademy](http://www.codecademy.com/)
+* [Data Journalism & Graphics Internships](https://docs.google.com/spreadsheet/ccc?key=0AsJrqt3yp-JydEp6ZGl2STU2by1YNlB3b1RYNXN4TVE)
+* [News Nerd Jobs](http://www.newsnerdjobs.com/)
 
 ###Submitting Assignments
 Individual assignments may have more specific instructions but, generally, most documents and discussion will be submitted to bCourse. 

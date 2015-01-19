@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Interactive Story Pitches"
-name: "Week 02"
+title:  "Story Pitches"
+name: "Week 2"
 description: "Students will pitch presentational ideas for their stories to the instructors based on early exploration of news packages."
 date: 2015-02-02
 type: lesson
@@ -10,5 +10,3 @@ downloads:
 quizzes: 
 assignment: 
 ---
-
-###Class Info Here.

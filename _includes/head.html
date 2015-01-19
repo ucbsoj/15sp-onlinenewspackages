@@ -5,9 +5,10 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 
     <!-- Bootstrap -->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic,300italic,300" rel="stylesheet" type="text/css">
-    <link href="assets/css/main.css" rel="stylesheet" type="text/css">
+    <link href="{{ site.baseurl }}assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="{{ site.baseurl }}assets/css/syntax-highlight-styles/default.css" rel="stylesheet" type="text/css">
+    <link href="{{ site.baseurl }}assets/css/main.css" rel="stylesheet" type="text/css">
 
     <!-- Open Graph -->
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />

@@ -2,11 +2,7 @@
 layout: default
 ---
 <ol class="breadcrumb">
-    <li><a href="/" title="home">Home</a></li>
-    <li><a href="/{{ site.collections[page.collection].label }}">{{ site.collections[page.collection].name }}</a></li>
-    {% if page.parent %}
-    <li><a href="/{{ site.collections[page.collection].label }}/{{ page.date | date: "%Y" }}/{{ page.parent }}">{{ page.parent }}</a></li>
-    {% endif %}
+    <li><a href="{{ site.baseurl }}" title="home">Home</a></li>
     <li class="active"><a href="{{ page.url }}" title="">{{ page.name }}: {{ page.title }}</a></li>
 </ol>
 
@@ -19,11 +15,15 @@ layout: default
         <div class="panel panel-default">
             {% if page.readings %}
             <div class="panel-heading">
-                <h3 class="panel-title">Readings</h3>
+                <h3 class="panel-title">Read by next week</h3>
             </div>
             <div class="list-group">
                 {% for reading in page.readings %}
+                    {% if reading.url %}
                     <a href="{{ reading.url }}" class="list-group-item">{{ reading.title }}</a>
+                    {% else %}
+                    <span class="list-group-item">{{ reading.title }}</span>
+                    {% endif %}
                 {% endfor %}
             </div>
             {% endif %}
@@ -52,7 +52,7 @@ layout: default
 
             {% if page.assignment %}
             <div class="panel-heading">
-                <h3 class="panel-title">Assignment</h3>
+                <h3 class="panel-title">Complete by next week</h3>
             </div>
             <div class="list-group">
                 <span class="list-group-item">{{ page.assignment }}</span>

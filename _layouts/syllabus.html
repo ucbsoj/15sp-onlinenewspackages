@@ -10,11 +10,12 @@ layout: default
 <section class="row">
     <div class="col-md-8 col-md-offset-2">
         <dl class="dl-horizontal">
-            {% for lesson in site.lessons %}
+            {% assign lessons = site.lessons | sort: 'date' %}
+            {% for lesson in lessons %}
                 {% if lesson.type == "lesson" %}
                     <dt>{{ lesson.date | date: "%b %-d" }}</dt>
                     <dd>
-                       <strong><a class="post-link" href="{{ lesson.url }}">{{ lesson.title }}</a></strong> &mdash; {{ lesson.description }}
+                       <strong><a class="post-link" href="{{ lesson.url }}">{{ lesson.title }}</a></strong> {%  if lesson.description %} &mdash; {{ lesson.description }} {% endif %}
                     </dd>
                 {% endif %}
             {% endfor %}
