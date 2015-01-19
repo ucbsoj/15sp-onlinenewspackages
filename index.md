@@ -1,11 +1,7 @@
 ---
 layout: syllabus
-title: Online News Packages
-description: Spring 2015, Mondays, 6–9 p.m.
 date: 2015-01-20
 ---
-
-##Course Description
 
 In this course, students will design and build online news packages for desktop and mobile web from the ground up. The course will be a mix of concept and practical application of digital news design. Students will learn to develop prototypes, iterate design concepts and code the HTML, CSS and JavaScript to implement their vision.
 
@@ -16,7 +12,6 @@ We cover an enormous amount of material during each class session, and every ses
 ###Professors:
 * Jeremy Rue, jrue at berkeley
 * Josh Williams, sjwilliams at berkeley
-
 
 ###Required Software
 
@@ -36,15 +31,17 @@ We cover an enormous amount of material during each class session, and every ses
 * http://www.newsnerdjobs.com/
 
 ###Submitting Assignments
-Individual assignments may have more specific instructions but, generally, documents/spreadsheets should be published TKT TKTK
+Individual assignments may have more specific instructions but, generally, most documents and discussion will be submitted to bCourse. 
 
+
+##Assignments
 
 ###News Package Critique
 In pairs — with dates and groups assigned by lottery — do an analysis of an existing news package or product that you find innovative in some way. The “innovation” could be design, technical, editorial or social in nature. 
 
 This assignment consists of two parts:
 
-1. A 10 minute presentation of the package. 
+1. A 10 to 15 minute presentation of the package or product. 
 2. An 800 to 1,000 word report of your findings, which is due the Saturday before you present by 8pm. This report should be the basis of your presentation.
 
 To successfully complete this assignment, you must:
@@ -53,6 +50,18 @@ To successfully complete this assignment, you must:
 * Succinctly communicate why the project is innovative.
 * Discuss how the story or product exists on various social, mobile and desktop platforms.
 * Be able to discuss any tools or techniques that helped make the project possible. 
-* Highlight any missed opportunities. For example, a project might work well on desktop but fail on mobile. 
-* Help the class understand how they might apply these lessons to our projects.
+* Highlight any missed opportunities. For example, the project works well on desktop but fails on mobile. 
+* Help the class understand how we might apply these lessons to our projects.
 
+###Weekly Discussion in bCourse
+tkt tk, something about discussing interesting projects that we see in a forum. No set “you must X words” but please participate. Maybe timed to jrue’s newsletter?
+
+###Midterm & Final
+####Midterm
+tk
+
+####Final
+In conjunction with the Advanced Visual Journalism course, students will work in groups of up to three to design a presentation for an original, well-reported visual narrative. In terms of project scale: the form will be open ended, based on your group’s story and needs. We’re looking for portfolio-ready, professional-level work. 
+
+
+##Weekly Schedule

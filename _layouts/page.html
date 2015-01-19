@@ -1,23 +1,22 @@
-{% include head.html %}
-
-  {% include header.html %}
-  <ol class="breadcrumb">
+---
+layout: default
+---
+<ol class="breadcrumb">
     <li><a href="/" title="home">Home</a></li>
     <li><a href="/{{ site.collections[page.collection].label }}">{{ site.collections[page.collection].name }}</a></li>
     {% if page.parent %}
     <li><a href="/{{ site.collections[page.collection].label }}/{{ page.date | date: "%Y" }}/{{ page.parent }}">{{ page.parent }}</a></li>
     {% endif %}
     <li class="active"><a href="{{ page.url }}" title="">{{ page.name }}: {{ page.title }}</a></li>
-  </ol>
+</ol>
 
-  <section id="content" class="row">
+<section class="row">
     <div class="col-md-8 col-md-offset-2">
         <header>
             <h2>{{ page.name }}: {{ page.title }}</h2>
             <p class="lead">{{ page.description }}</p>
         </header>
         <div class="panel panel-default">
-
             {% if page.readings %}
             <div class="panel-heading">
                 <h3 class="panel-title">Readings</h3>
@@ -64,6 +63,4 @@
             {{ content }}
         </div>
     </div>
-  </section>
-
-{% include footer.html %}
+</section>

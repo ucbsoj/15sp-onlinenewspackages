@@ -1,6 +1,6 @@
 # Site settings
 title: Online News Packages
-description: "tk"
+description: Spring 2015, Mondays, 6–9 p.m.
 baseurl: "/15spring-onlinepackages/" # the subpath of your site, e.g. /blog/
 url: "http://ucbsoj.github.io/" # the base hostname & protocol for your site
 
