@@ -1,0 +1,12 @@
+# Site settings
+title: Online News Packages
+description: "In this course, students will learn how to design and build online news packages for desktop and mobile web from the ground up. The course will be a mix of concept and practical application of digital news design."
+baseurl: "/15spring-onlinepackages/" # the subpath of your site, e.g. /blog/
+url: "http://ucbsoj.github.io/" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: [smart, tables]
+highlighter: true

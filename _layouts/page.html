@@ -1,0 +1,69 @@
+{% include head.html %}
+
+  {% include header.html %}
+  <ol class="breadcrumb">
+    <li><a href="/" title="home">Home</a></li>
+    <li><a href="/{{ site.collections[page.collection].label }}">{{ site.collections[page.collection].name }}</a></li>
+    {% if page.parent %}
+    <li><a href="/{{ site.collections[page.collection].label }}/{{ page.date | date: "%Y" }}/{{ page.parent }}">{{ page.parent }}</a></li>
+    {% endif %}
+    <li class="active"><a href="{{ page.url }}" title="">{{ page.name }}: {{ page.title }}</a></li>
+  </ol>
+
+  <section id="content" class="row">
+    <div class="col-md-8 col-md-offset-2">
+        <header>
+            <h2>{{ page.name }}: {{ page.title }}</h2>
+            <p class="lead">{{ page.description }}</p>
+        </header>
+        <div class="panel panel-default">
+
+            {% if page.readings %}
+            <div class="panel-heading">
+                <h3 class="panel-title">Readings</h3>
+            </div>
+            <div class="list-group">
+                {% for reading in page.readings %}
+                    <a href="{{ reading.url }}" class="list-group-item">{{ reading.title }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+
+            {% if page.downloads %}
+            <div class="panel-heading">
+                <h3 class="panel-title">Downloads</h3>
+            </div>
+            <div class="list-group">
+                {% for download in page.downloads %}
+                    <a href="{{ download.url }}" class="list-group-item">{{ download.title }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+
+            {% if page.quizzes %}
+            <div class="panel-heading">
+                <h3 class="panel-title">Quizzes</h3>
+            </div>
+            <div class="list-group">
+                {% for quiz in page.quizzes %}
+                    <a href="{{ quiz.url }}" class="list-group-item">{{ quiz.title }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+
+            {% if page.assignment %}
+            <div class="panel-heading">
+                <h3 class="panel-title">Assignment</h3>
+            </div>
+            <div class="list-group">
+                <span class="list-group-item">{{ page.assignment }}</span>
+            </div>
+            {% endif %}
+        </div>
+        <div class="lesson">
+            {{ content }}
+        </div>
+    </div>
+  </section>
+
+{% include footer.html %}

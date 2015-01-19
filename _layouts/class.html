@@ -1,0 +1,46 @@
+{% include head.html %}
+
+    {% include header.html %}
+    <ol class="breadcrumb">
+        <li><a href="/" title="home">Home</a></li>
+        <li><a href="/{{ site.collections[page.collection].label }}">{{ site.collections[page.collection].name }}</a></li>
+    </ol>
+    <section id="content" class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <header>
+                <h2>{{ page.title }}</h2>
+                <p class="lead">{{ page.description }}</p>
+            </header>
+        </div>
+    </section>
+    <section id="course_description" class="row">
+        <div class="col-md-8 col-md-offset-2">
+            {{ content }}
+        </div>
+    </section>
+
+    <section id="course_schedule" class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <dl class="dl-horizontal">
+            {% assign currentYear = page.date | date: "%Y" %}
+
+            {% for lesson in site.collections[page.collection].docs %}
+
+                {% assign lessonYear = lesson.date | date: "%Y" %}
+
+                {% if lesson.type == "lesson" and lessonYear == currentYear %}
+
+                <dt>{{ lesson.date | date: "%b %-d" }}</dt>
+
+                 <dd>
+                    <strong><a class="post-link" href="{{ lesson.url }}">{{ lesson.title }}</a></strong> &mdash; {{ lesson.description }}
+                 </dd>
+
+                 {% endif %}
+
+            {% endfor %}
+            </dl>
+        </div>
+    </section>
+
+{% include footer.html %}
