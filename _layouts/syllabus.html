@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<section class="row">
+    <div class="col-md-8 col-md-offset-2">
+        {{ content }}
+    </div>
+</section>
+
+<section class="row">
+    <div class="col-md-8 col-md-offset-2">
+        <dl class="dl-horizontal">
+<!--                 {% for lesson in site.collections[page.collection].docs %}
+
+                {% assign lessonYear = lesson.date | date: "%Y" %}
+
+                {% if lesson.type == "lesson" and lessonYear == currentYear %}
+
+                <dt>{{ lesson.date | date: "%b %-d" }}</dt>
+
+                 <dd>
+                    <strong><a class="post-link" href="{{ lesson.url }}">{{ lesson.title }}</a></strong> &mdash; {{ lesson.description }}
+                 </dd>
+
+                 {% endif %}
+
+            {% endfor %} -->
+
+            {% for lesson in site.lessons %}
+                <dt>hi</dt>
+                <dd>hi</dd>
+            {% endfor %}
+        </dl>
+    </div>
+</section>
