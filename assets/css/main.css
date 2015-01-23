@@ -181,3 +181,23 @@ blockquote{
     padding: 0 0 0 5px;
   }
 }
+
+
+/* keep the site from being bonkers wide */
+.container-fluid{
+  max-width: 1200px;
+}
+
+/* bitly link */
+.callout-link{
+  text-align: center;
+  margin-bottom: 30px;
+  color: #868686;
+  font-size: 18px;
+}
+
+
+/* get the sked to look okay */
+.schedule dt{
+  width: auto;
+}

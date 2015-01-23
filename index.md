@@ -5,13 +5,17 @@ date: 2015-01-20
 
 In this course, students will design and build online news packages for desktop and mobile web from the ground up. The course will be a mix of concept and practical application of digital news design. Students will learn to develop prototypes, iterate design concepts and code the HTML, CSS and JavaScript to implement their vision.
 
-We cover an enormous amount of material during each class session, and every session builds off previous sessions. For this reason, attendance during every class is required (university-approved exceptions will be allowed.) Students who believe they are likely to miss sessions should seek approval to audit instead.
+This course is to be taken concurrently with Advanced Visual Journalism. The visual narratives created in that class will be the basis for much of the design and production work in this course.
 
 *This syllabus is fluid and will change. You are responsible for checking for updates regularly.*
 
 ###Professors:
 * Jeremy Rue, jrue at berkeley
 * Josh Williams, sjwilliams at berkeley
+
+
+###When/Where
+Mondays, 6–9 p.m. Upper Newsroom.
 
 ###Required Software
 
@@ -30,14 +34,17 @@ We cover an enormous amount of material during each class session, and every ses
 * [Data Journalism & Graphics Internships](https://docs.google.com/spreadsheet/ccc?key=0AsJrqt3yp-JydEp6ZGl2STU2by1YNlB3b1RYNXN4TVE)
 * [News Nerd Jobs](http://www.newsnerdjobs.com/)
 
-###Submitting Assignments
-Individual assignments may have more specific instructions but, generally, most documents and discussion will be submitted to bCourse. 
 
+###Attendance and Class Policies
+We cover an enormous amount of material during each class session, and every session builds off previous sessions. For this reason, attendance during every class is required (university-approved exceptions will be allowed.) Students who believe they are likely to miss sessions should seek approval to audit instead.
+
+Additionally, during class, please refrain from activity not directly related to the class, including email, web surfing, reporting for other classes, calls and text messaging. These activities are distracting to your instructors and classmates, and will result in you being asked to leave and marked absent.
 
 ##Assignments
+Individual assignments may have more specific instructions but, generally, most documents and discussion will be submitted to bCourse. To allow for instructor review, unless stated otherwise, assignments are due 24 hours before class begins. Late assignments are not excepted. 
 
-###News Package Critique
-In pairs — with dates and groups assigned by lottery — do an analysis of an existing news package or product that you find innovative in some way. The “innovation” could be design, technical, editorial or social in nature. 
+###News Package Critique (20%)
+In pairs — with dates and groups assigned by lottery — do an analysis of an existing news package or product that you find innovative in some way. The “innovation” can be design, technical, editorial or social in nature. 
 
 This assignment consists of two parts:
 
@@ -53,15 +60,12 @@ To successfully complete this assignment, you must:
 * Highlight any missed opportunities. For example, the project works well on desktop but fails on mobile. 
 * Help the class understand how we might apply these lessons to our projects.
 
-###Weekly Discussion in bCourse
-tkt tk, something about discussing interesting projects that we see in a forum. No set “you must X words” but please participate. Maybe timed to jrue’s newsletter?
+###Weekly Discussion in bCourse (20%)
+On bCourse, we'll discuss relevant projects that we stumble on during the week. These mid-week discussions may generate more in-depth dissection and analysis the following Monday. Please submit interesting work you'd like to discuss, and be prepared to talk about the projects with the larger group.
 
 ###Midterm & Final
-####Midterm
-tk
+####Midterm (20%)
+Individually, students will design and build a stand-alone, single page story. Details and date TBD, based on early class progress.
 
-####Final
+####Final (40%)
 In conjunction with the Advanced Visual Journalism course, students will work in groups of up to three to design a presentation for an original, well-reported visual narrative. In terms of project scale: the form will be open ended, based on your group’s story and needs. We’re looking for portfolio-ready, professional-level work. 
-
-
-##Weekly Schedule
