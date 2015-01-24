@@ -17,7 +17,7 @@ layout: default
                 {% if lesson.type == "lesson" %}
                     <dt>{{ lesson.date | date: "%b %-d" }}</dt>
                     <dd>
-                       <strong><a class="post-link" href="{{ lesson.url }}">{{ lesson.title }}</a></strong> {%  if lesson.description %} &mdash; {{ lesson.description }} {% endif %}
+                       <strong><a class="post-link" href="{{ site.baseurl }}{{ lesson.url }}">{{ lesson.title }}</a></strong> {%  if lesson.description %} &mdash; {{ lesson.description }} {% endif %}
                     </dd>
                 {% endif %}
             {% endfor %}
