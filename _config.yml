@@ -13,4 +13,4 @@ highlighter: true
 collections:
   lessons:
     output: true
-    permalink: /lessons/:path/
+    permalink: /:path/
