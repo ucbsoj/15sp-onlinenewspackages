@@ -2,15 +2,11 @@
 layout: page
 title:  "Welcome and Introductions"
 name: "Week 1"
-description: "This class will introduce the instructors, and go over an evolution in multimedia storytelling. It will also cover three (or more) modes of consumption for news stories, and dissect how they affect content."
+description: "We'll discuss an evolution in multimedia storytelling and modes of news consumption."
 date: 2015-01-26
 type: lesson
-readings: [
-    {
-        "title" : "Chapters 1 - 5: HTML & CSS"
-    }
-]
+readings:
 downloads: 
 quizzes: 
-assignment: "Working with your group, write a short paragraph of some possible ways a traditional story could be presented in different mediums, leveraging story content. Turn in on bCourses."
+assignment: "In your groups, prepare story pitches for your combined final project for both this and your Advanced Visual Journalism course. You'll pitch your story ideas to all four professors and your colleagues in class. In additional to editorial ideas, come prepared to discuss possible story forms for your ideas, keeping in mind what we discussed in class this week. We'll be looking for ideas that take advantage of possibility beyond just the basics of a single media type. Have your pitches rehearsed and professional."
 ---

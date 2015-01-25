@@ -1,10 +1,15 @@
 ---
 layout: default
 ---
-<ol class="breadcrumb">
-    <li><a href="{{ site.baseurl }}/" title="home">Home</a></li>
-    <li class="active"><a href="{{ page.url }}" title="">{{ page.name }}: {{ page.title }}</a></li>
-</ol>
+
+<section class="row">
+    <div class="col-md-8 col-md-offset-2">
+        <ol class="breadcrumb">
+            <li><a href="{{ site.baseurl }}/" title="home">Home</a></li>
+            <li class="active">{{ page.name }}: {{ page.title }}</li>
+        </ol>
+    </div>
+</section>
 
 <section class="row">
     <div class="col-md-8 col-md-offset-2">
@@ -12,6 +17,11 @@ layout: default
             <h2>{{ page.name }}: {{ page.title }}</h2>
             <p class="lead">{{ page.description }}</p>
         </header>
+
+        <div class="lesson">
+            {{ content }}
+        </div>
+
         <div class="panel panel-default">
             {% if page.readings %}
             <div class="panel-heading">
@@ -58,9 +68,6 @@ layout: default
                 <span class="list-group-item">{{ page.assignment }}</span>
             </div>
             {% endif %}
-        </div>
-        <div class="lesson">
-            {{ content }}
         </div>
     </div>
 </section>

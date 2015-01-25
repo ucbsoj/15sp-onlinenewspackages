@@ -2,12 +2,24 @@
 layout: page
 title:  "Layout Basics"
 name: "Week 6"
-description: "In-proccess project critiques. Applying the box model."
+description: "In-process project critiques. Applying the box model."
 date: 2015-03-02
 type: lesson
-readings: 
+readings: [
+    {
+        title: 'Responsive Web Design, by Ethan Marcott',
+        url: 'http://alistapart.com/article/responsive-web-design'
+    },
+    {
+        title: 'How to add responsive video to your website',
+        url: 'http://www.creativebloq.com/netmag/how-add-responsive-video-your-website-51411565'
+    },
+    {
+        "title" : "Chapters 9 and 16: HTML & CSS"
+    }
+]
 downloads: 
 quizzes: 
 assignment: 
 ---
-Groups 1 - TK will give present the current status of their projects.
+We'll also cover the basics of typography. Groups 1 - TK will present the current status of their projects.

@@ -1,12 +1,18 @@
 ---
 layout: page
-title:  "Code Basics"
+title:  "Web Basics"
 name: "Week 4"
-description: "Review HTML and CSS basics. Using the Chrome Inspector."
+description: "Picking up HTML and CSS where Multimedia Bootcamp left off."
 date: 2015-02-16
 type: lesson
-readings: 
+readings: [
+    {
+        "title" : "Chapters 10 - 12: HTML & CSS"
+    }
+]
 downloads: 
 quizzes: 
 assignment: 
 ---
+
+Also: Using the Chrome Inspector.

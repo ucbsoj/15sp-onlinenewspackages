@@ -2,11 +2,15 @@
 layout: page
 title:  "Story Pitches"
 name: "Week 2"
-description: "Students will pitch presentational ideas for their stories to the instructors based on early exploration of news packages."
+description: "Groups will pitch story and presentation ideas to the class and the instructors of Advanced Visual Journalism and Online News Packages."
 date: 2015-02-02
 type: lesson
-readings: 
+readings: [
+    {
+        "title" : "Chapters 1 - 5 and 18 - 19: HTML & CSS"
+    }
+]
 downloads: 
 quizzes: 
-assignment: 
+assignment: Based on feedback from your story pitches, in your group prepare a detailed storyboard of your selected story for presentation to the class. The storyboard should include a "low resolution" mock of the story, making sure to block out major sections of the presentation and denoting types of planned media. Be prepared to discuss any interactive elements, feeling free to show real-world examples that illustrate your ideas. Your storyboard is meant to help you start identifying the tasks ahead -- editorial, design and technical -- so you can start planning an approach to accomplish your vision. The storyboard is not a contract; you'll have opportunity to change course as your story elements start to come together and you have a better understanding of the production required to build the various pieces. 
 ---
