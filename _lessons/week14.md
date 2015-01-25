@@ -2,7 +2,7 @@
 layout: page
 title:  "Lab"
 name: "Week 14"
-description: "This is an open lab where instructors will work one-on-one with students on their projects."
+description: "In perpetration for the final presentation, instructors will be available during three hour lab."
 date: 2015-05-04
 next: week15
 previous: week13

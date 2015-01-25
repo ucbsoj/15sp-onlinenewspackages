@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Design Trends"
+title:  "Designing for News"
 name: "Week 9"
-description: "We've touched on a lot of design basics. In this class we'll look at more advanced approaches for understanding proper design theory, specifically how it influences storytelling."
+description: "Moving beyond the design basics we've already covered, we'll look at specific techniques for dealing with documents, audio, video, photos and other elements in our narratives."
 date: 2015-03-30
 next: week10
 previous: week8

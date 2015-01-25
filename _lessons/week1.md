@@ -2,7 +2,7 @@
 layout: page
 title:  "Welcome and Introductions"
 name: "Week 1"
-description: "We will begin with a quick overview of the course, and go over the syllabus. Then we'll discuss an evolution in multimedia storytelling. The instructors will show examples of online news packages, and present ideas about how design can reinforce the editorial goals in stories."
+description: "We'll discuss an evolution in multimedia storytelling and modes of news consumption."
 date: 2015-01-26
 next: week2
 previous: 

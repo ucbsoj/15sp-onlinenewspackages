@@ -2,7 +2,7 @@
 layout: page
 title:  "HTML &amp; CSS Basics"
 name: "Week 4"
-description: "We will start with critique assignment. This class will pick up where the Web Skills class left off. It will first cover an overview of HTML5: tags, nesting, and attributes. Then it will go into some basic CSS review: id and class selectors, various properties, and using Google Fonts. During this class, we will take some time to get everyone's computer setup with the proper software and development environment."
+description: "Picking up where the Web Skills class left off, we'll review HTML tags, nesting, and attributes. We'll also review basic CSS selectors and properties."
 date: 2015-02-16
 next: week5
 previous: week3
@@ -17,4 +17,4 @@ quizzes:
 assignment: 
 ---
 
-Also: Using the Chrome Inspector.
+Make sure you have all the required softwared installed before this class, as we'll double check your settings and development environment. We'll also learn to snoop our sites with Chrome's Inspector.

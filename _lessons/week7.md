@@ -2,7 +2,7 @@
 layout: page
 title:  "Responsive Design"
 name: "Week 7"
-description: "With consumers using so many different devices to consume news these days, journalists need to be thinking more than ever about adpating their content to multiple screens. This class will cover thinking and coding &ldquo;responsivley.&rdquo; so that your project will automatically adjust to the different forms it may encounter."
+description: "We'll discuss the basic of &ldquo;responsive design,&rdquo; a way of designing and coding that ensures our stories look good on any sized device, from mobile phones to massive desktops."
 date: 2015-03-09
 next: week8
 previous: week6

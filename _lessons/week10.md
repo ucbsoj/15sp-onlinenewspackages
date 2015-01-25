@@ -2,7 +2,7 @@
 layout: page
 title:  "Adding Interactivity"
 name: "Week 10"
-description: "In this week, we introduce some JavaScript and jQuery in order to add interactivy in our story designs. We will learn some basic ways to fade boxes in-and-out, make things disappear, and make elements on the page change when you click, hover or tap on them."
+description: "We'll introduce JavaScript and jQuery in order to add interactivy to our story designs. We will learn the basics of hiding, revealings and modify our content dynamically. And we'll discuss how this can enhance our story experience."
 date: 2015-04-06
 next: week11
 previous: week9

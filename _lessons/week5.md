@@ -2,7 +2,7 @@
 layout: page
 title:  "CSS Nitty Gritty"
 name: "Week 5"
-description: "This class will dive deeper into CSS. It will cover more advanced selectors, pseudo-selectors, specificity and inheritance (the cascade), inline vs block, and units of measurement."
+description: "We'll cover more advanced CSS, including specificity and inheritance."
 date: 2015-02-23
 next: week6
 previous: week4

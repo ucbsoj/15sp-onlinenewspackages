@@ -2,9 +2,9 @@
 layout: page
 title:  "Storyboards"
 name: "Week 3"
-description: "Each group will present their detailed storyboard, using drawings, Power Point, or other mockups. The length of the presentation will depend on the number of groups formed in the class. If we end early, we will begin with a primer on HTML."
+description: "Groups will present their detailed storyboard using drawings, Power Point or other mockups."
 date: 2015-02-09
-next: week
+next: week4
 previous: week2
 type: lesson
 readings: [

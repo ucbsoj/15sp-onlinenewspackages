@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Web Page Layout Basics"
+title:  "Layout Basics"
 name: "Week 6"
-description: "This class will first begin with in-process project critiques based on the assignment from the previous class. Then it will dive into more advance usage of HTML &amp; CSS, covering topics like typography, the box model, positioning, and floats."
+description: "We'll cover techniques to build basic column layouts with CSS."
 date: 2015-03-02
 next: week7
 previous: week5

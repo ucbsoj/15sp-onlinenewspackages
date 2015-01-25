@@ -2,7 +2,7 @@
 layout: page
 title:  "Story Pitches"
 name: "Week 2"
-description: "Groups will pitch their story and presentation ideas. The instructors from Advanced VJ will join this class to hear the pitches, and talk about opportunities of how they can be structured and presented as a news package. Students should prepare storyboards for next week."
+description: "Groups will pitch their story and presentation ideas. The instructors from Advanced VJ will join."
 date: 2015-02-02
 next: week3
 previous: week1
