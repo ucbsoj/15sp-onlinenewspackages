@@ -10,8 +10,8 @@ This course is to be taken concurrently with Advanced Visual Journalism. The vis
 *This syllabus is fluid and will change. You are responsible for checking for updates regularly.*
 
 ###Professors:
-* Jeremy Rue, jrue at berkeley
-* Josh Williams, sjwilliams at berkeley
+* Jeremy Rue, jrue at Berkeley (Office Hours: Wednesdays from 1-4pm by appointment preferred)
+* Josh Williams, sjwilliams at Berkeley (Office Hours: TBD)
 
 
 ###When/Where
@@ -69,7 +69,7 @@ To successfully complete this assignment, you must:
 * Highlight any missed opportunities. For example, the project works well on desktop but fails on mobile. 
 * Help the class understand how we might apply these lessons to our projects.
 
-###Weekly Discussion in bCourse &amp; Attendance(20%)
+###Weekly Discussion in bCourse &amp; Attendance (20%)
 On bCourse, we'll discuss relevant projects that we stumble on during the week. These mid-week discussions may generate more in-depth dissection and analysis the following Monday. Please submit interesting work you'd like to discuss, and be prepared to talk about the projects with the larger group. 
 
 We will also include attendance as a portion of this grade. Missing two classes will result in a 5 percent loss of grade, and an additional 5 percent for each additional class missed after that.
