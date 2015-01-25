@@ -8,6 +8,14 @@ layout: default
             <li><a href="{{ site.baseurl }}/" title="home">Home</a></li>
             <li class="active">{{ page.name }}: {{ page.title }}</li>
         </ol>
+        <ol class="breadcrumb weeknav">
+            {% if page.previous %}
+            <li><a href="../{{ page.previous }}">Previous</a></li>
+            {% endif %}
+            {% if page.next %}
+            <li><a href="../{{ page.next }}">Next</a></li>
+            {% endif %}
+        </ol>
     </div>
 </section>
 

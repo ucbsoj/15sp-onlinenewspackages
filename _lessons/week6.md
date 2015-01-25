@@ -4,6 +4,8 @@ title:  "Layout Basics"
 name: "Week 6"
 description: "In-process project critiques. Applying the box model."
 date: 2015-03-02
+next: week7
+previous: week5
 type: lesson
 readings: [
     {

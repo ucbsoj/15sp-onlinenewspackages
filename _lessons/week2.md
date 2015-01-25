@@ -4,6 +4,8 @@ title:  "Story Pitches"
 name: "Week 2"
 description: "Groups will pitch story and presentation ideas to the class and the instructors of Advanced Visual Journalism and Online News Packages."
 date: 2015-02-02
+next: week3
+previous: week1
 type: lesson
 readings: [
     {

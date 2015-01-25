@@ -4,6 +4,8 @@ title:  "Storyboards"
 name: "Week 3"
 description: "As a group, present your detailed storyboard."
 date: 2015-02-09
+next: week4
+previous: week2
 type: lesson
 readings: [
     {

@@ -4,6 +4,8 @@ title:  "Responsive Design"
 name: "Week 7"
 description: "In-proccess project critiques. Thinking and coding responsivley."
 date: 2015-03-09
+next: week8
+previous: week6
 type: lesson
 readings: [
     {
