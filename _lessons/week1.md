@@ -2,7 +2,7 @@
 layout: page
 title:  "Welcome and Introductions"
 name: "Week 1"
-description: "We'll discuss an evolution in multimedia storytelling and modes of news consumption."
+description: "We'll discuss an evolution in multimedia storytelling and a classification for news packages."
 date: 2015-01-26
 next: week2
 previous: 
