@@ -40,8 +40,17 @@ We cover an enormous amount of material during each class session, and every ses
 
 Additionally, during class, please refrain from activity not directly related to the class, including email, web surfing, reporting for other classes, calls and text messaging. These activities are distracting to your instructors and classmates, and will result in you being asked to leave and marked absent.
 
-##Assignments
-Individual assignments may have more specific instructions but, generally, most documents and discussion will be submitted to bCourse. To allow for instructor review, unless stated otherwise, assignments are due 24 hours before class begins. Late assignments are not accepted. 
+##Assignments and Grading
+Individual assignments may have more specific instructions but, generally, most documents and discussion will be submitted to [bCourses](https://bcourses.berkeley.edu/courses/1306168/). To allow for instructor review, unless stated otherwise, assignments are due 24 hours before class begins. Late assignments are not accepted.
+
+The assignments are graded in four parts:
+
+* 20% — **News Package Critique**
+* 20% — **Weekly Discussion &amp; Attendance**
+* 20% — **Midterm**
+* 40% — **Final**
+
+Access the bCourses website at [https://bcourses.berkeley.edu/](https://bcourses.berkeley.edu/courses/1306168/) 
 
 ###News Package Critique (20%)
 In pairs — with dates and groups assigned by lottery — do an analysis of an existing news package or product that you find innovative in some way. The “innovation” can be design, technical, editorial or social in nature. 
@@ -60,12 +69,19 @@ To successfully complete this assignment, you must:
 * Highlight any missed opportunities. For example, the project works well on desktop but fails on mobile. 
 * Help the class understand how we might apply these lessons to our projects.
 
-###Weekly Discussion in bCourse (20%)
-On bCourse, we'll discuss relevant projects that we stumble on during the week. These mid-week discussions may generate more in-depth dissection and analysis the following Monday. Please submit interesting work you'd like to discuss, and be prepared to talk about the projects with the larger group.
+###Weekly Discussion in bCourse &amp; Attendance(20%)
+On bCourse, we'll discuss relevant projects that we stumble on during the week. These mid-week discussions may generate more in-depth dissection and analysis the following Monday. Please submit interesting work you'd like to discuss, and be prepared to talk about the projects with the larger group. 
 
-###Midterm & Final
-####Midterm (20%)
-Individually, students will design and build a stand-alone, single page story. Details and date TBD, based on early class progress.
+We will also include attendance as a portion of this grade. Missing two classes will result in a 5 percent loss of grade, and an additional 5 percent for each additional class missed after that.
 
-####Final (40%)
-In conjunction with the Advanced Visual Journalism course, students will work in groups of up to three to design a presentation for an original, well-reported visual narrative. In terms of project scale: the form will be open ended, based on your group’s story and needs. We’re looking for portfolio-ready, professional-level work. 
+###Midterm (20%)
+
+Due: **Sunday April 5, 11:59pm**
+
+Individually, each student will design and build a stand-alone single page story using tutorial material. This assignment is designed to demonstrate your competency in the mechanics of constructing a digital news package. The details for the midterm will be posted on bCourses. The midterm is due **Sunday April 5, 11:59pm**.
+
+###Final (40%)
+
+Due: **Thursday, April 30 11:59pm**
+
+In conjunction with the Advanced Visual Journalism course, students will work in groups to design a presentation for an original, well-reported visual narrative. In terms of project scale: the form will be open ended, based on your group’s story and needs. We’re looking for portfolio-ready, professional-level work. The final project is due **Thursday, April 30 11:59pm**. The instructors will review the projects in order to prep them for the showcase the following Monday on May 4.
