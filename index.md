@@ -41,7 +41,7 @@ We cover an enormous amount of material during each class session, and every ses
 Additionally, during class, please refrain from activity not directly related to the class, including email, web surfing, reporting for other classes, calls and text messaging. These activities are distracting to your instructors and classmates, and will result in you being asked to leave and marked absent.
 
 ##Assignments
-Individual assignments may have more specific instructions but, generally, most documents and discussion will be submitted to bCourse. To allow for instructor review, unless stated otherwise, assignments are due 24 hours before class begins. Late assignments are not excepted. 
+Individual assignments may have more specific instructions but, generally, most documents and discussion will be submitted to bCourse. To allow for instructor review, unless stated otherwise, assignments are due 24 hours before class begins. Late assignments are not accepted. 
 
 ###News Package Critique (20%)
 In pairs — with dates and groups assigned by lottery — do an analysis of an existing news package or product that you find innovative in some way. The “innovation” can be design, technical, editorial or social in nature. 
@@ -53,7 +53,7 @@ This assignment consists of two parts:
 
 To successfully complete this assignment, you must:
 
-* Interview at least one journalist directly involved via phone, video or in person. We use the term “journalist” in a broad, modern sense: editor, reporter, designer, developer, social media producer, photographer, videographer, etc.
+* Interview at least one journalist directly involved via phone, video or in person. This can be an editor, reporter, designer, developer, social media producer, photographer or videographer.
 * Succinctly communicate why the project is innovative.
 * Discuss how the story or product exists on various social, mobile and desktop platforms.
 * Be able to discuss any tools or techniques that helped make the project possible. 
