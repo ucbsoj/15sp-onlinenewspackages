@@ -24,4 +24,30 @@ assignment: "Two things: 1. In your groups, prepare story pitches for your combi
 
 We'll also go over the syllabus, assign "News Package Critique" groups and dates by [lottery](http://codepen.io/sjwilliams/pen/LELeYR/?editors=001), and answer any questions you have.
 
+###Taxonomy of News Packages
+
+In the second half of class, we will discuss a classification system for news packages which cover three basic forms: Continuous, Comprehensive, and Immersive. Below are links to examples that will be shown in class.
+
+####Continuous
+
+* [Beaten by Newsday](http://data.newsday.com/long-island/crime/turner/)
+* [America Elect! by Guardian](http://www.theguardian.com/world/interactive/2012/nov/06/america-elect-graphic-novel)
+* [Lost and Found](http://www.npr.org/news/specials/2012/cushman/)
+
+####Comprehensive
+
+* [Chicago Under the Gun by Chicago Tribune](http://graphics.chicagotribune.com/under-the-gun/2014/)
+* [The Great Divide by Global Post](http://www.globalpost.com/special-reports/global-income-inequality-great-divide-globalpost)
+* [Planet Money T-shirt](http://apps.npr.org/tshirt/)
+
+####Immersive
+
+* [Explore the 80s](http://explorethe80s.com)
+* [Out My Window](http://interactive.nfb.ca/#/outmywindow/)
+* [Killing Kennedy](http://www.kennedyandoswald.com/)
+
+####Intersections
+
+* [Firestorm by Guardian](http://www.theguardian.com/world/interactive/2013/may/26/firestorm-bushfire-dunalley-holmes-family)
+* [NSA Files](http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded)
 
