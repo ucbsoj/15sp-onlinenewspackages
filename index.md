@@ -15,7 +15,8 @@ This course is to be taken concurrently with Advanced Visual Journalism. The vis
 
 
 ###When/Where
-Mondays, 6–9 p.m. Upper Newsroom.
+Mondays, 6–9 p.m. Lower Newsroom. <br>
+(Class will officially begin at 6:15 to allow for time to get some food before we begin. 6:15 is the cutoff, please don't be late.)
 
 ###Required Software
 
