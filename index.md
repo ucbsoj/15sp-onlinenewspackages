@@ -11,7 +11,7 @@ This course is to be taken concurrently with Advanced Visual Journalism. The vis
 
 ###Professors:
 * Jeremy Rue, jrue at Berkeley (Office Hours: Wednesdays from 1-4pm by appointment preferred)
-* Josh Williams, sjwilliams at Berkeley (Office Hours: TBD)
+* Josh Williams, sjwilliams at Berkeley (Office Hours: By appointment in downtown SF)
 
 
 ###When/Where
