@@ -84,4 +84,4 @@ Individually, each student will design and build a stand-alone single page story
 
 Due: **Thursday, April 30 11:59pm**
 
-In conjunction with the Advanced Visual Journalism course, students will work in groups to design a presentation for an original, well-reported visual narrative. In terms of project scale: the form will be open ended, based on your group’s story and needs. We’re looking for portfolio-ready, professional-level work. The final project is due **Thursday, April 30 11:59pm**. The instructors will review the projects in order to prep them for the showcase the following Monday on May 4.
+In conjunction with the Advanced Visual Journalism course, students will work in groups to design a presentation for an original, well-reported visual narrative. In terms of project scale: the form will be open ended, based on your group’s story and needs. We’re looking for portfolio-ready, professional-level work. The final project is due **Thursday, May 7 11:59pm**. The instructors will review the projects in order to prep them for the showcase the following Monday on May 11.
