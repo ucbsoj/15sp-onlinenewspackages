@@ -71,9 +71,7 @@ To successfully complete this assignment, you must:
 * Help the class understand how we might apply these lessons to our projects.
 
 ###Weekly Discussion in bCourse &amp; Attendance (20%)
-On bCourse, we'll discuss relevant projects that we stumble on during the week. These mid-week discussions may generate more in-depth dissection and analysis the following Monday. Please submit interesting work you'd like to discuss, and be prepared to talk about the projects with the larger group. 
-
-We will also include attendance as a portion of this grade. Missing two classes will result in a 5 percent loss of grade, and an additional 5 percent for each additional class missed after that.
+On bCourse, we'll discuss relevant projects that we stumble on during the week. These mid-week discussions may generate more in-depth dissection and analysis the following Monday. Please submit interesting work you'd like to discuss, and be prepared to talk about the projects with the larger group. We will also include attendance as a portion of this grade. 
 
 ###Midterm (20%)
 
