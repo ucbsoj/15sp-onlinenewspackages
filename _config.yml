@@ -9,7 +9,6 @@ url: "http://ucbsoj.github.io/" # the base hostname & protocol for your site
 markdown: redcarpet
 redcarpet:
   extensions: [smart, tables]
-highlighter: true
 collections:
   lessons:
     output: true
