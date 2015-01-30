@@ -12,3 +12,10 @@ downloads:
 quizzes: 
 assignment: 
 ---
+
+
+<h5>News Package Critique</h5>
+<ul>
+    <li>Group 1: Shang S, Nicole W.</li>
+    <li>Group 2: Alyssa P, Jeremy L.</li>
+</ul>

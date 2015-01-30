@@ -18,3 +18,9 @@ assignment:
 ---
 
 Make sure you have all the required softwared installed before this class, as we'll double check your settings and development environment. We'll also learn to snoop our sites with Chrome's Inspector.
+
+<h5>News Package Critique</h5>
+<ul>
+    <li>Group 1: Sasha L, Mara V.</li>
+    <li>Group 2: Gina P, Philippe J.</li>
+</ul>

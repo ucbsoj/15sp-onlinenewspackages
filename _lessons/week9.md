@@ -12,3 +12,9 @@ downloads:
 quizzes: 
 assignment: 
 ---
+
+<h5>News Package Critique</h5>
+<ul>
+    <li>Group 1: Deana M, Alex K.</li>
+    <li>Group 2: Harriet R, Nadine S.</li>
+</ul>
