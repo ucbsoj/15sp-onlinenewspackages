@@ -9,7 +9,11 @@ previous: week1
 type: lesson
 readings: [
     {
-        "title" : "Chapters 1 - 5 and 18 - 19: HTML & CSS"
+        "title": "Chapters 1 - 5 and 18 - 19: HTML & CSS"
+    }, 
+    {
+      "title": "A look into the design and prototyping process for Twitter Video",
+      "url": "http://paulstamatiou.com/twitter-video/"
     }
 ]
 downloads: 
