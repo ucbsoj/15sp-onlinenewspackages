@@ -22,3 +22,9 @@ quizzes:
 assignment: 
 ---
 Groups TK - TK will present the current status of their projects.
+
+<h5>News Package Critique</h5>
+<ul>
+    <li>Jacqueline I, Alice K.</li>
+    <li>Molly P, Gabriela A.</li>
+</ul>

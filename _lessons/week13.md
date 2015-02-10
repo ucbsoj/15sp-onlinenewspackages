@@ -12,3 +12,9 @@ downloads:
 quizzes: 
 assignment: 
 ---
+
+
+<h5>News Package Critique</h5>
+<ul>
+    <li>Noelia G, Jieqian Z.</li>
+</ul>

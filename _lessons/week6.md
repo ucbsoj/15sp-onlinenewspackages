@@ -25,3 +25,9 @@ quizzes:
 assignment: 
 ---
 We'll also cover the basics of typography. Groups 1 - TK will present the current status of their projects.
+
+<h5>News Package Critique</h5>
+<ul>
+    <li>Group 1: Yanni Z, Parker Y.</li>
+    <li>Group 2: Yngrid F, Naomi N.</li>
+</ul>
