@@ -81,7 +81,7 @@ Data attributes always start with the word **data** and then end with a hyphen. 
 
 In this example below, a plugin called Cycle has some properties you can assign:
 
-<img src="/assets/images/attributes-data.jpg" class="img-responsive left-block" alt="data attributes" />
+<img src="../assets/images/attributes-data.jpg" class="img-responsive left-block" alt="data attributes" />
 
 
 ###Video and Audio Tags
