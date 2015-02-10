@@ -32,7 +32,7 @@ In this section, we will do a review of HTML we learned in Web Skills.
 
 ###HTML Tags
 
-<img src="/assets/images/html-tags.jpg" class="img-responsive left-block" alt="HTML tags" />
+<img src="../assets/images/html-tags.jpg" class="img-responsive left-block" alt="HTML tags" />
 
 Remember that most HTML tags have two parts:
 
@@ -45,7 +45,7 @@ The closing tag has a forward-slash before the end of the name.
 
 It's important that we understand **attributes** which are pieces of information that can go into tags.
 
-<img src="/assets/images/attribute.jpg" class="img-responsive left-block" alt="An attribute in a single tag" />
+<img src="../assets/images/attribute.jpg" class="img-responsive left-block" alt="An attribute in a single tag" />
 
 Attributes like `href=""` go inside the &lt;a&gt; tag to specify where a user will go when they click a link.
 
@@ -68,7 +68,7 @@ There are three attributes that can go in all HTML tags that pertains to CSS:
 
 Later, when we get into video, you may see some attributes with no value assigned. These are boolean attributes, which means they either exist or they don't, which determines whether they are true or false. If they are present, it is assumed they are true. One common place these are seen is in the &lt;video&gt; tag. You can optionally include player controls, or remove the attribute altogether, to have a chromeless video play.
 
-<img src="/assets/images/attribute-with-no-value.jpg" class="img-responsive left-block" alt="attributes with no value" />
+<img src="../assets/images/attribute-with-no-value.jpg" class="img-responsive left-block" alt="attributes with no value" />
 
 In the above example, the **preload**, **controls** and **loop** attributes do not assign a value (there is no equals symbol). If they are present, then they set those properties of the video.
 
@@ -117,7 +117,7 @@ Paths take the following forms:
 * **Relative paths** — These are paths that start from the current file's location, and you either work your way up or down the document tree.
 * **Absolute paths** — These are paths that always start from the root folder of a website, regardless of where your file is.
 
-<img src="/assets/images/folder-structure.jpg" class="img-responsive left-block" alt="folder structure" />
+<img src="../assets/images/folder-structure.jpg" class="img-responsive left-block" alt="folder structure" />
 
 ####URL Paths
 
