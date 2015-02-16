@@ -14,7 +14,7 @@ readings: [
     {
         title: "Wake up & smell the fonts",
         url: "https://www.youtube.com/watch?v=OXc-VZ4Vwbo"
-    }x
+    }
 ]
 downloads: 
 quizzes: 
