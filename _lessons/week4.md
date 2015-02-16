@@ -49,7 +49,7 @@ It's important that we understand **attributes** which are pieces of information
 
 Attributes like `href=""` go inside the &lt;a&gt; tag to specify where a user will go when they click a link.
 
-####Some commong attributes
+####Some common attributes
 
 * **src** — Specify the image location inside a &lt;img /&gt; tag.
 * **alt** — Specify some alternate text to describe the image in an &lt;img /&gt; tag.
