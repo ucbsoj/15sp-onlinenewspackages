@@ -23,6 +23,6 @@ assignment:
 
 <h5>News Package Critique</h5>
 <ul>
-    <li>Group 1: Pallavi S, Shaina S.</li>
-    <li>Group 2: Zainab K, Fan F..</li>
+    <li>Group 1: Lena D., Shaina S.</li>
+    <li>Group 2: Zainab K, Fan F.</li>
 </ul>
