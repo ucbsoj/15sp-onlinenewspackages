@@ -10,11 +10,15 @@ type: lesson
 readings: [
     {
         "title" : "Chapters 10 - 12: HTML & CSS"
-    }
+    },
+    {
+        title: "Wake up & smell the fonts",
+        url: "https://www.youtube.com/watch?v=OXc-VZ4Vwbo"
+    }x
 ]
 downloads: 
 quizzes: 
-assignment: 
+assignment: "Redo the ProPublica assignment from last week, but this time make sure your HTML validates. You also need to start styling the document, making sure to use at least type and class selectors. Design-wise, keep it simple: a column of text on a white background. Stick to black and shades of grey for your text. Don't use any tags that describe style, as opposed to defining content. So avoid the use of \"i\", \"b\", \"hr\", \"font\", \"center\" and the like."
 ---
 
 Make sure you have all the required software installed before this class, as we'll double check your settings and development environment. We'll also learn to snoop our sites with Chrome's Inspector.
