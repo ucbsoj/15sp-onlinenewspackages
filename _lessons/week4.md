@@ -14,6 +14,10 @@ readings: [
     {
         title: "Wake up & smell the fonts",
         url: "https://www.youtube.com/watch?v=OXc-VZ4Vwbo"
+    },
+    {
+        title: "The Russia Left Behind",
+        url: "http://www.nytimes.com/newsgraphics/2013/10/13/russia/"
     }
 ]
 downloads: 
