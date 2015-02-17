@@ -15,6 +15,6 @@ assignment:
 
 <h5>News Package Critique</h5>
 <ul>
-    <li>Group 1:  _______</li>
+    <li>Group 1: Lena D., Shaina S.</li>
     <li>Group 2:  _______</li>
 </ul>
