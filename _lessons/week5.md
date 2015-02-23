@@ -14,7 +14,7 @@ readings: [
 ]
 downloads: 
 quizzes: 
-assignment: 
+assignment: Markup a single story and style it in two ways. See homework.html in this week's download for full details and an example.
 ---
 
 <h5>News Package Critique</h5>
