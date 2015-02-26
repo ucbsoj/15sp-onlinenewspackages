@@ -9,7 +9,15 @@ previous: week4
 type: lesson
 readings: [
     {
-        "title" : "Chapters 13, 15, 17 and pages 330-336: HTML & CSS"
+        title: 'Behind the Civil Rights Act',
+        url: 'http://apps.npr.org/behind-the-civil-rights-act/'
+    },
+    {
+        title: 'Two Gunshots On a Summer Night',
+        url:  'http://www.nytimes.com/projects/2013/two-gunshots/'
+    },
+    {
+        title: 'Chapters 13, 15, 17 and pages 330-336: HTML & CSS'
     }
 ]
 downloads: 

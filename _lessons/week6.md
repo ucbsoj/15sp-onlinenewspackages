@@ -24,7 +24,8 @@ downloads:
 quizzes: 
 assignment: 
 ---
-We'll also cover the basics of typography. Groups 1 - TK will present the current status of their projects.
+We'll also cover the basics of typography.
+
 
 <h5>News Package Critique</h5>
 <ul>
