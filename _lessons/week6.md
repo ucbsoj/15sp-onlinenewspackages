@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Layout Basics"
+title:  "Deep into the C of CSS"
 name: "Week 6"
-description: "We'll cover techniques to build basic column layouts with CSS."
+description: "We'll get to the bottom of conflict resolution in CSS."
 date: 2015-03-02
 next: week7
 previous: week5
@@ -24,8 +24,6 @@ downloads:
 quizzes: 
 assignment: 
 ---
-We'll also cover the basics of typography.
-
 
 <h5>News Package Critique</h5>
 <ul>
