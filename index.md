@@ -77,7 +77,7 @@ On bCourse, we'll discuss relevant projects that we stumble on during the week. 
 
 Due: **Sunday April 5, 11:59pm**
 
-Individually, each student will design and build a stand-alone single page story using tutorial material. This assignment is designed to demonstrate your competency in the mechanics of constructing a digital news package. The details for the midterm will be posted on bCourses. The midterm is due **Sunday April 5, 11:59pm**.
+Individually, each student will design and build a stand-alone single page story. This assignment is designed to demonstrate your competency in the mechanics of constructing a digital news package. The details for the midterm are available on [bCourses](https://bcourses.berkeley.edu/courses/1306168/assignments/6024314). The midterm is due **Sunday April 5, 11:59pm**.
 
 ###Final (40%)
 
