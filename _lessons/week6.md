@@ -17,7 +17,15 @@ readings: [
         url: 'http://www.creativebloq.com/netmag/how-add-responsive-video-your-website-51411565'
     },
     {
-        "title" : "Chapters 9 and 16: HTML & CSS"
+        title: "Chapters 9 and 16: HTML & CSS"
+    },
+    {
+        title: "AMERICA’S BEST BURRITO",
+        url: 'http://fivethirtyeight.com/burrito/#brackets-view'
+    },
+    {
+        title: "VICE Virtual Reality Newscast",
+        url: 'https://news.vice.com/article/chris-milk-spike-jonze-and-vice-news-bring-the-first-ever-virtual-reality-newscast-to-sundance'
     }
 ]
 downloads: 
