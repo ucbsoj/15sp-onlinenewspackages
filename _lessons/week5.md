@@ -2,7 +2,7 @@
 layout: page
 title:  "CSS Nitty Gritty"
 name: "Week 5"
-description: "We'll cover more advanced CSS, including specificity and inheritance."
+description: "We'll cover more advanced CSS."
 date: 2015-02-23
 next: week6
 previous: week4

@@ -77,10 +77,10 @@ On bCourse, we'll discuss relevant projects that we stumble on during the week. 
 
 Due: **Sunday April 5, 11:59pm**
 
-Individually, each student will design and build a stand-alone single page story using tutorial material. This assignment is designed to demonstrate your competency in the mechanics of constructing a digital news package. The details for the midterm will be posted on bCourses. The midterm is due **Sunday April 5, 11:59pm**.
+Individually, each student will design and build a stand-alone single page story. This assignment is designed to demonstrate your competency in the mechanics of constructing a digital news package. The details for the midterm are available on [bCourses](https://bcourses.berkeley.edu/courses/1306168/assignments/6024314). The midterm is due **Sunday April 5, 11:59pm**.
 
 ###Final (40%)
 
-Due: **Thursday, April 30 11:59pm**
+Due: **Thursday, May 7 11:59pm**
 
 In conjunction with the Advanced Visual Journalism course, students will work in groups to design a presentation for an original, well-reported visual narrative. In terms of project scale: the form will be open ended, based on your group’s story and needs. We’re looking for portfolio-ready, professional-level work. The final project is due **Thursday, May 7 11:59pm**. The instructors will review the projects in order to prep them for the showcase the following Monday on May 11.
