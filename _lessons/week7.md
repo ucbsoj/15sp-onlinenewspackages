@@ -15,6 +15,14 @@ readings: [
     {
         title: "Related Slides",
         url: "http://www.slideshare.net/huer1278ft/grids-are-good-right"
+    },
+    {
+        title: "Norway the Slow Way",
+        url: "http://www.nytimes.com/interactive/2014/09/19/travel/reif-larsen-norway.html"
+    }, 
+    {
+        title: "MediaQueri.es",
+        url: "http://mediaqueri.es/"
     }
 ]
 downloads: 
