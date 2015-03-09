@@ -13,12 +13,16 @@ readings: [
         url: "http://www.subtraction.com/2007/03/19/oh-yeeaahh/"
     },
     {
-        title: "Related Slides",
+        title: "Khoi Vihn's Slides",
         url: "http://www.slideshare.net/huer1278ft/grids-are-good-right"
     },
     {
         title: "Norway the Slow Way",
         url: "http://www.nytimes.com/interactive/2014/09/19/travel/reif-larsen-norway.html"
+    },
+    {
+        title: "What The Heck Is Responsive Web Design?",
+        url: "http://johnpolacek.github.io/scrolldeck.js/decks/responsive/"
     }, 
     {
         title: "MediaQueri.es",
