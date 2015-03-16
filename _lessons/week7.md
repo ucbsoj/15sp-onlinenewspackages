@@ -21,6 +21,10 @@ readings: [
         url: "http://www.nytimes.com/interactive/2014/09/19/travel/reif-larsen-norway.html"
     },
     {
+        title: "Drugging Our Kids",
+        url: "http://webspecial.mercurynews.com/druggedkids/"
+    },
+    {
         title: "What The Heck Is Responsive Web Design?",
         url: "http://johnpolacek.github.io/scrolldeck.js/decks/responsive/"
     }, 
