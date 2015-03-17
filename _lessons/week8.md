@@ -10,7 +10,7 @@ type: lesson
 readings: 
 downloads: 
 quizzes: 
-assignment: 
+assignment: "Due March 29, create the layout page mentioned above and submit a .zip file on bCourses."
 ---
 
 
@@ -299,7 +299,28 @@ To get the space above and below the photos, you'll need to add some custom CSS 
 }
 ```
 
+###HOMEWORK
 
+Your homework is to re-create a web page that looks like this:
+
+<img src="{{ site.baseurl }}/assets/images/tutorial-airship-homework.png" class="img-responsive left-block" alt="Airship sample website homework" />
+
+The images are in the [National Archives Flickr account](https://www.flickr.com/photos/usnationalarchives/sets/72157631511771730/). Here are links to the specific images:
+
+```html
+<!-- Main photo -->
+<img src="https://farm9.staticflickr.com/8180/7951497614_113792e785_b.jpg" class="img-responsive left-block">
+
+<!-- Three inner photos -->
+<img src="https://farm9.staticflickr.com/8455/7951500278_837f104ba4_b.jpg" class="img-responsive center-block">
+<img src="https://farm9.staticflickr.com/8447/7951500518_9bbb519d69_b.jpg" class="img-responsive center-block">
+<img src="https://farm9.staticflickr.com/8436/7951500812_345455ef6b_b.jpg" class="img-responsive center-block">
+
+<!-- bottom photo -->
+<img src="https://farm9.staticflickr.com/8454/7951499264_f11426c1b6_b.jpg" class="img-responsive center-block">
+```
+
+One you finish, zip up the whole folder, including Bootstrap's css, js and fonts folders, and upload to bCourses. This is due after Spring Break.
 
 
 
