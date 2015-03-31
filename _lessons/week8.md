@@ -8,7 +8,12 @@ next: week9
 previous: week7
 type: lesson
 readings: 
-downloads: 
+downloads: [
+    {
+        "url"   : "../assets/pdfs/bootstrap.pdf",
+        "title" : "Bootstrap presentation shown in class"
+    }
+]
 quizzes: 
 assignment: "Due March 29, create the layout page mentioned above and submit a .zip file on bCourses."
 ---
