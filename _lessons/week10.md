@@ -20,11 +20,11 @@ readings: [
 downloads: [
     {
         "title": "Class exercise file and homework",
-        "url": "../../assets/zip/jquery.zip"
+        "url": "../assets/zip/jquery.zip"
     },
     {
         "title": "PDF of the presetnation given in class",
-        "url": "../../assets/pdfs/jquery.pdf"
+        "url": "../assets/pdfs/jquery.pdf"
     }
 ]
 quizzes: 
